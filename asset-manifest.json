@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-App---1-Robo-Friends-/static/css/main.b586e06c.css",
+    "main.js": "/React-App---1-Robo-Friends-/static/js/main.aeb2bbf5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-App---1-Robo-Friends-/static/js/787.28cb0dcd.chunk.js",
+    "static/media/ROBLOX logo.woff": "/React-App---1-Robo-Friends-/static/media/ROBLOX logo.353dfc9c60c9b3652b62.woff",
+    "index.html": "/React-App---1-Robo-Friends-/index.html",
+    "main.b586e06c.css.map": "/React-App---1-Robo-Friends-/static/css/main.b586e06c.css.map",
+    "main.aeb2bbf5.js.map": "/React-App---1-Robo-Friends-/static/js/main.aeb2bbf5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-App---1-Robo-Friends-/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b586e06c.css",
+    "static/js/main.aeb2bbf5.js"
+  ]
+}
